@@ -77,3 +77,10 @@ layout: default
 > 选对运营商，  
 > 坐下看云时，  
 > 它自会飘进你手机。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Saint Lucia eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/saint-lucia-data-plans)
